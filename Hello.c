@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 
-int main£¨)
+int main()
 {
 	prinf("Hello Git!");
 	return 0;
